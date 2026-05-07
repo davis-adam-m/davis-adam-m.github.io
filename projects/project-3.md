@@ -17,7 +17,7 @@ title: "Electronics Retailer Sales Model"
 
 This EER diagram displays the tables and the view created for this database.
 
-[![Cleaned Table with Applied Steps]({{ site.baseurl }}/assets/project-3/model.png)](https://davis-adam-m.github.io/assets/project-1/model.png)
+[![Cleaned Table with Applied Steps]({{ site.baseurl }}/assets/project-3/model.png)](https://davis-adam-m.github.io/assets/project-3/model.png)
 *Electronics Co model diagram.*
 
 ## Example Query
