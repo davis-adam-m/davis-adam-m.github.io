@@ -18,8 +18,8 @@ Data Analyst with hands-on skills in Excel, Power BI, SQL, and Python, supported
 ---
 
 ### [World Happiness Scores vs. Education and Population Metrics – Python](./projects/project-2.md)
-**Description:** Wrangled multi-source datasets using Pandas and NumPy to conduct exploratory statistical analysis, producing multivariate visualizations that identified key links between education, population size, and national happiness scores.
-![Preview](https://via.placeholder.com/400x200)
+**Description:** Wrangled multi-source datasets using Pandas and NumPy to conduct exploratory statistical analysis, producing multivariate visualizations using MatPlotLib and Seaborn that identified key links between education, population size, and national happiness scores.
+![Preview]({{ site.baseurl }}/assets/project-2/world-happiness.png)
 [Project Details](./projects/project-2.md)
 
 ---
