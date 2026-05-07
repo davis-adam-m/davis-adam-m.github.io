@@ -1,8 +1,8 @@
-## Data Analytics Portfolio
-
-# Project 1
+#
+# Data Analytics Portfolio
+## Project 1
 Description.
-# Project 2
+## Project 2
 Description.
-# Project 3
+## Project 3
 Description.
