@@ -17,7 +17,7 @@ I supplemented provided data with additional data on economic age demographics f
 [![Cleaned Table with Applied Steps]({{ site.baseurl }}/assets/project-1/applied steps.png)](https://davis-adam-m.github.io/assets/project-1/applied%20steps.png)
 *An example of a finished table with a list of several applied steps visible to the right.*
 
-A significant requirement of this project was to perform a linear regression analysis on the correlation between customer purchases and average state income. For this requirement, I created a regression table listing all states with x (average state income) and y (average customer purchases over 6mo period) variables, as well as calculated columns for x^2, y^2, and xy. I then used DAX measures to calculate all the variables necessary for the regression formula (b, m, etc.) as well as r^2 for the correlation between variables.
+A significant requirement of this project was to perform a linear regression analysis on the correlation between customer purchases and average state income. For this requirement, I created a regression table listing all states with x (average state income) and y (average customer purchases over 6mo period) variables, as well as calculated columns for x^2, y^2, and xy. I then used DAX measures to calculate all the variables necessary for the regression formula (b, m, etc.) as well as r^2 coefficient for the correlation between variables.
 
 [![Regression Table with DAX Measure]({{ site.baseurl }}/assets/project-1/dax example.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *The final form of the regression table with an example of the DAX measure calculating the variable m.*
