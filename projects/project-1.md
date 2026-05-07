@@ -5,6 +5,7 @@ title: "Apparel Chain Market Analysis"
 
 ## Project Description
 This project required the use of Power BI to clean and synthesize multiple data sources in diverse formats, build a semantic model and establish functional relationships, perform a regression analysis using calculated columns and DAX measures, and design a report layer for visual analysis, to be shipped with an executive summary packaging findings, key insights, and data-driven market expansion suggestions/targeted product recommendations. 
+[📥 Download Project Files]({{ site.baseurl }}/assets/project-1/Executive Summary.docx)
 
 ## Data Preparation
 I supplemented provided data with additional data on economic age demographics from BLS, for a total of 6 data sources. I loaded these into Power BI and used Power Query to perform cleaning functions to handle nulls, pivot/unpivot incorrectly formatted data, remove uneccesary columns/rows, merge tables, and create calculated columns.
@@ -19,28 +20,25 @@ A significant requirement of this project was to perform a linear regression ana
 
 Once the 10 tables were finalized, I built a star-schema semantic model and established functional relationships between tables, considering the upstream filtering needs of the reporting layer. 
 
-![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *The final semantic model.*
 
 ## Visualizations
 
-![Main Insight Chart]({{ site.baseurl }}/assets/project-1/applied steps.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
-![Main Insight Chart]({{ site.baseurl }}/assets/project-1/applied steps.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
-![Secondary Analysis]({{ site.baseurl }}/assets/project-1/applied steps.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: Correlation heatmap showing the relationship between marketing spend and conversions.*
 
-![Main Insight Chart]({{ site.baseurl }}/assets/project-1/applied steps.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
-![Main Insight Chart]({{ site.baseurl }}/assets/project-1/applied steps.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
-![Main Insight Chart]({{ site.baseurl }}/assets/project-1/applied steps.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
-
-## Resources
-[📥 Download Project Files (.zip or .pdf)](#)
