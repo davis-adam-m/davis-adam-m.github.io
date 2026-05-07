@@ -1,3 +1,17 @@
 remote_theme: "jekyll/minima@1e8a445"
 title: Adam Davis
 description: Thanks for visiting my portfolio site.
+
+# Build settings
+header_pages:
+  - index.md
+  - project-1.md
+  - project-2.md
+  - project-3.md
+
+# This helps organize your project detail pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
