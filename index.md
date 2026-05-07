@@ -1,5 +1,7 @@
 # Data Analytics Portfolio
 
+---
+
 ### Bio
 Passionate Data Analyst skilled in Python, SQL, and Tableau. I turn complex datasets into actionable insights.
 
