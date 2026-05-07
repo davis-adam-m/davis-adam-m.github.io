@@ -41,7 +41,7 @@ Once the 10 tables were finalized, I built a star-schema semantic model and esta
 * A histogram displaying the distribution of predicted incomes across the existing customer base, including a card displaying the customer with highest expected income based on purchase history. The report allows drill-through to either the product recommendations page or the income heatmap, allowing easy review of areas with particular income ranges and product recommendations for those areas/income ranges.
 
 [![Income Histogram]({{ site.baseurl }}/assets/project-1/histogram.png)](https://davis-adam-m.github.io/assets/project-1/histogram.png)
-*Description: This chart illustrates the 15% growth trend observed in Q3.*
+*Histogram displaying the distribution of predicted incomes across the existing customer base.*
 
 * Product recommendation report page, featuring a waterfall chart for quick identification of stock on hand per product, a macro for the high-level marketing strategy recommendation, sliders for exploration of products by filtering for 3 variables, a table listing product names and details, and a thumbnail of the income histogram allowing drill-through and dynamic display based on selected income ranges or products.
 
