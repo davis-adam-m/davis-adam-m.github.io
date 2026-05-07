@@ -11,7 +11,7 @@ title: "Electronics Retailer Sales Model"
 [📥 Download Project File]({{ site.baseurl }}/assets/project-3/electronics_co.mwb)
 
 * MySQL Workbench Model (.mwb)
-** Includes all SQL scripts used to build and query the database
+  * Includes all SQL scripts used to build and query the database
 
 ## EER Diagram Preview
 
