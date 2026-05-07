@@ -5,7 +5,7 @@ title: "Apparel Chain Market Analysis"
 
 ## Project Description
 This project required the use of Power BI to clean and synthesize multiple data sources in diverse formats, build a semantic model and establish functional relationships, perform a regression analysis using calculated columns and DAX measures, and design a report layer for visual analysis, to be shipped with an executive summary packaging findings, key insights, and data-driven market expansion suggestions/targeted product recommendations. 
-[📥 Download Project Files]({{ site.baseurl }}/assets/project-1/Executive Summary.docx)
+[📥 Download Project Files (.zip)]({{ site.baseurl }}/assets/project-1/Project Files.zip)
 
 ## Data Preparation
 I supplemented provided data with additional data on economic age demographics from BLS, for a total of 6 data sources. I loaded these into Power BI and used Power Query to perform cleaning functions to handle nulls, pivot/unpivot incorrectly formatted data, remove uneccesary columns/rows, merge tables, and create calculated columns.
@@ -24,8 +24,9 @@ Once the 10 tables were finalized, I built a star-schema semantic model and esta
 *The final semantic model.*
 
 ## Visualizations
+I created a heatmap based on average income by state, allowing visual identification of high-potential areas and clusters, with tooltips displaying average state income, average predicted income of customer base (based on existing customer base age demographics and BLS data), number of customers per state, and average spend per customer (past 6mo period).
 
-[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
+[![Income Heatmap]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
 [![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
