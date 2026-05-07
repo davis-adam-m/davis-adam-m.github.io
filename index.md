@@ -6,7 +6,7 @@ title: Data Analytics Project Portfolio
 ### Bio
 Data Analyst with hands-on skills in Excel, Power BI, SQL, and Python, supported by 6+ years of operations management experience across multiple industries and a proven ability to translate analytical findings into measurable business outcomes.
 
-Contact: davis.adam.mich@outlook.com
+**Contact:** davis.adam.mich@outlook.com
 
 ---
 
