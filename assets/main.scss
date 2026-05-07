@@ -1,0 +1,25 @@
+---
+# This ensures Jekyll processes the file
+---
+
+// 1. Define your custom colors
+$brand-color:    #2a7ae2; // Primary accents (links)
+$site-title-color: #333;
+
+// 2. Override Background and Text Colors
+$background-color: #000000; // Change this for the page background
+$text-color:       #ffffff; // Change this for the main font color
+
+// 3. Import the theme (this must come AFTER your variables)
+@import "minima";
+
+// 4. Custom CSS (optional)
+// If you want specific elements changed (like the header), add them here:
+.site-header {
+  background-color: #222222;
+  border-top: 5px solid $brand-color;
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff !important;
+}
