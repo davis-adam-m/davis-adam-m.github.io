@@ -20,22 +20,25 @@ A significant requirement of this project was to perform a linear regression ana
 
 Once the 10 tables were finalized, I built a star-schema semantic model and established functional relationships between tables, considering the upstream filtering needs of the reporting layer. 
 
-[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
+[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/model.png)
 *The final semantic model.*
 
 ## Visualizations
 I created a heatmap based on average income by state, allowing visual identification of high-potential areas and clusters, with tooltips displaying average state income, average predicted income of customer base (based on existing customer base age demographics and BLS data), number of customers per state, and average spend per customer (past 6mo period).
 
-[![Income Heatmap]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
+[![Income Histogram]({{ site.baseurl }}/assets/project-1/histogram.png)](https://davis-adam-m.github.io/assets/project-1/histogram.png)
+*Heatmap of average state income.*
+
+[![Product Recommendations]({{ site.baseurl }}/assets/project-1/prod rec.png)](https://davis-adam-m.github.io/assets/project-1/prod%20rec.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
-[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
-*Description: This chart illustrates the 15% growth trend observed in Q3.*
-
-[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
+[![Linear Regression]({{ site.baseurl }}/assets/project-1/regression.png)](https://davis-adam-m.github.io/assets/project-1/regression.png)
 *Description: Correlation heatmap showing the relationship between marketing spend and conversions.*
 
-[![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
+[![Sales Breakdown]({{ site.baseurl }}/assets/project-1/sales decomp.png)](https://davis-adam-m.github.io/assets/project-1/sales%20decomp.png)
+*Description: This chart illustrates the 15% growth trend observed in Q3.*
+
+[![Sales Trend Time Series]({{ site.baseurl }}/assets/project-1/sales trend.png)](https://davis-adam-m.github.io/assets/project-1/sales%20trend.png)
 *Description: This chart illustrates the 15% growth trend observed in Q3.*
 
 [![Semantic Model]({{ site.baseurl }}/assets/project-1/model.png)](https://davis-adam-m.github.io/assets/project-1/dax%20example.png)
