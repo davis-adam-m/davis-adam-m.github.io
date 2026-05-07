@@ -12,7 +12,7 @@ Data Analyst with hands-on skills in Excel, Power BI, SQL, and Python, supported
 
 ### [Apparel Chain Market Analysis – Power BI](./project-1.md)
 **Description:** Engineered a 10-table semantic model and utilized DAX for linear regression and correlation analysis, delivering an executive dashboard with targeted product recommendations and demographic expansion strategies.
-![Preview](./assets/project-1/exec summary gif.gif)
+![Preview]({{ site.baseurl }}/assets/project-1/exec summary gif.gif)
 [Project Details](./project-1.md)
 
 ---
