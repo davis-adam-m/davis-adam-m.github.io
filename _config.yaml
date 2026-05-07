@@ -1,6 +1,7 @@
 remote_theme: "jekyll/minima@1e8a445"
 title: Adam Davis
 description: Thanks for visiting my portfolio site.
+baseurl: ""
 
 # Build settings
 header_pages:
