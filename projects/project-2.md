@@ -6,7 +6,7 @@ title: "World Happiness Scores vs. Education and Population Metrics"
 ## Project Description
 Using Python libraries including Pandas, NumPy, MatPlotLib, and Seaborn in a Jupyter notebook, I cleaned and merged a dataset derived from three separate original datasets, each providing complementary data on global countries over a range of years for a number of indicators, including happiness scores, educational benchmarks, and population metrics. I extracted insights about the relationships between variables of interest by analyzing the final dataset to detect patterns and outliers. The research question motivating the analysis: what patterns surface when evaluating the association between happiness scores and metrics of population/education?
 
-[View the full output of the project notebook]({{ site.baseurl }}/assets/project-2/world-happiness.html)
+[📃 View the full output of the project notebook]({{ site.baseurl }}/assets/project-2/world-happiness.html)
 
 ---
 
