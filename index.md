@@ -10,21 +10,21 @@ Data Analyst with hands-on skills in Excel, Power BI, SQL, and Python, supported
 
 ## Projects
 
-### [Apparel Chain Market Analysis – Power BI](./project-1.md)
+### [Apparel Chain Market Analysis – Power BI](./projects/project-1.md)
 **Description:** Engineered a 10-table semantic model and utilized DAX for linear regression and correlation analysis, delivering an executive dashboard with targeted product recommendations and demographic expansion strategies.
 ![Preview]({{ site.baseurl }}/assets/project-1/exec summary gif.gif)
-[Project Details](./project-1.md)
+[Project Details](./projects/project-1.md)
 
 ---
 
-### [World Happiness Scores vs. Education and Population Metrics – Python](./project-2.md)
+### [World Happiness Scores vs. Education and Population Metrics – Python](./projects/project-2.md)
 **Description:** Wrangled multi-source datasets using Pandas and NumPy to conduct exploratory statistical analysis, producing multivariate visualizations that identified key links between education, population size, and national happiness scores.
 ![Preview](https://via.placeholder.com/400x200)
-[Project Details](./project-2.md)
+[Project Details](./projects/project-2.md)
 
 ---
 
-### [Electronics Retailer Sales Model – MySQL](./project-3.md)
+### [Electronics Retailer Sales Model – MySQL](./projects/project-3.md)
 **Description:** Developed a relational database schema from scratch using SQL DDL/DML, implementing stored procedures, triggers, and complex joins to ensure data integrity while providing actionable insights into sales performance.
 ![Preview](https://via.placeholder.com/400x200)
-[Project Details](./project-3.md)
+[Project Details](./projects/project-3.md)
