@@ -1,4 +1,6 @@
 remote_theme: "jekyll/minima@1e8a445"
+minima:
+  skin: dark
 title: Adam Davis
 description: Thanks for visiting my portfolio site.
 baseurl: ""
@@ -16,6 +18,3 @@ defaults:
       path: ""
     values:
       layout: "page"
-# skin
-minima:
-  skin: dark
