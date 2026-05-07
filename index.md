@@ -1,5 +1,6 @@
-# Data Analytics Portfolio
-
+---
+layout: page
+title: Data Analytics Portfolio
 ---
 
 ### Bio
