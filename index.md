@@ -29,5 +29,5 @@ Data Analyst with hands-on skills in Excel, Power BI, SQL, and Python, supported
 ### [Electronics Retailer Sales Model – MySQL](./projects/project-3.md)
 **Description:** Developed a relational database schema from scratch using SQL DDL/DML, implementing stored procedures, triggers, and complex joins to ensure data integrity while providing actionable insights into sales performance.
 
-![Preview](https://via.placeholder.com/400x200)
+![Preview]({{ site.baseurl }}/assets/project-3/model.png)
 [Project Details](./projects/project-3.md)
