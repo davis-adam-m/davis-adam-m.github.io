@@ -1,7 +1,7 @@
 remote_theme: "jekyll/minima@1e8a445"
 minima:
   skin: dark
-  hide_rss: "true"
+  hide_site_feed_link: true
 title: Adam Davis | Data Analyst
 description: Thanks for visiting!
 baseurl: ""
