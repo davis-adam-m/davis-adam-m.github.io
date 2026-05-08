@@ -1,7 +1,3 @@
-<style>
-  .site-footer { display: none; }
-</style>
-
 ---
 layout: page
 title: Project Portfolio
