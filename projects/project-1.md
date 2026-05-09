@@ -51,7 +51,7 @@ Once the 10 tables were finalized, I built a star-schema semantic model and esta
 * A breakdown of total sales by state and customer age range using an interactive decomposition tree visual, linked to bar charts for average spend per customer by state and predicted total annual apparel spend by state (based on existing customer base age demographics and BLS economic data), as well as a table dsplaying the age ranges and their associated metrics.
 
 [![Sales Breakdown]({{ site.baseurl }}/assets/project-1/sales decomp.png)](https://davis-adam-m.github.io/assets/project-1/sales%20decomp.png)
-*Description: This chart illustrates the 15% growth trend observed in Q3.*
+*Sales breakdown by age ranges and states with financial metrics for demographic groups.*
 
 * A time-series overview for the given period, showing declining total sales trend and recent increase in average purchase amount.
 
